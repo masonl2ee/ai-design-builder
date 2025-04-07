@@ -98,7 +98,4 @@ Switch to tablet view
 Make the button rounded and centered
 ```
 
----
-## 🔐 License
-[Unlicense](./License)
 
